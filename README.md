@@ -1,6 +1,6 @@
 # gitopen - batch file (Windows & Python)
 Author: Stephen Koch
-Version 1.0.0
+Version 1.0.1
 # Description
 Using the DOS command prompt removes a ton of functionality that unix and linux provides BUT it also removes many more variables to parse through when debugging. I made this for my windows machine for when I am using Windows command prompt. 
 
