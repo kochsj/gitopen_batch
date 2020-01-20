@@ -7,7 +7,7 @@ Using the DOS command prompt removes a ton of functionality that unix and linux 
 When you type <b>'gitopen'</b> into the DOS command prompt it will open the current github repository at the origin root. I am using python and regular expressions to parse the url and "start" the url.
 
 # Usage
-Python 3.6 or greater is required to use f-strings.
+Python 3.6 or greater is required to use f-strings. Also GitHub for windows is required as well. Download [here](https://gitforwindows.org/).
 
 Make sure that you have a current version above 3.6 for use:
 ```
